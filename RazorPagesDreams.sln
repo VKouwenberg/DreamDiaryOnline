@@ -5,11 +5,11 @@ VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RazorPagesDreams", "RazorPagesDreams.csproj", "{458B9B25-FD4F-4D56-BC46-0328CBE03364}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDOLogic", "..\DDOLogic\DDOLogic.csproj", "{6950BEF6-C13E-46D7-B5F2-2CE85FB19D07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LogicDDO", "..\DDOLogic\LogicDDO.csproj", "{6950BEF6-C13E-46D7-B5F2-2CE85FB19D07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDODataAccess", "..\DDODataAccess\DDODataAccess.csproj", "{643E6CDF-F48E-4207-9383-D623F07A7A4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessDDO", "..\DDODataAccess\DataAccessDDO.csproj", "{643E6CDF-F48E-4207-9383-D623F07A7A4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDOConsoleView", "..\DDOConsoleView\DDOConsoleView.csproj", "{968B4344-DBFC-4F37-88BE-3CE1CD4FECC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDOConsoleView", "..\DDOConsoleView\DDOConsoleView.csproj", "{968B4344-DBFC-4F37-88BE-3CE1CD4FECC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
