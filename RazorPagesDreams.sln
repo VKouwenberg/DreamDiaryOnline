@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessDDO", "..\DDOData
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDOConsoleView", "..\DDOConsoleView\DDOConsoleView.csproj", "{968B4344-DBFC-4F37-88BE-3CE1CD4FECC8}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcDreams", "..\MvcDreams\MvcDreams.csproj", "{3EBEA48F-2283-45D3-8F9F-6DC85C35BAC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDBConnection", "..\TestDBConnection\TestDBConnection.csproj", "{FC58AF39-0BEC-4516-B9C4-7F2E99C90AC1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{968B4344-DBFC-4F37-88BE-3CE1CD4FECC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{968B4344-DBFC-4F37-88BE-3CE1CD4FECC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{968B4344-DBFC-4F37-88BE-3CE1CD4FECC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3EBEA48F-2283-45D3-8F9F-6DC85C35BAC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3EBEA48F-2283-45D3-8F9F-6DC85C35BAC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3EBEA48F-2283-45D3-8F9F-6DC85C35BAC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3EBEA48F-2283-45D3-8F9F-6DC85C35BAC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC58AF39-0BEC-4516-B9C4-7F2E99C90AC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC58AF39-0BEC-4516-B9C4-7F2E99C90AC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC58AF39-0BEC-4516-B9C4-7F2E99C90AC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC58AF39-0BEC-4516-B9C4-7F2E99C90AC1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
